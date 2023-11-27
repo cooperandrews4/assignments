@@ -6,13 +6,18 @@
 	font-size: 20px;
 	margin-bottom: 0;
 }
+p {
+	font-family: 'Times New Roman', serif;
+	font-size: 20px;
+
+}
 .header {
 	height: auto;
 	font-weight: bold;
 	font-size: 50px;
 	text-align: center;
 	font-family: 'Georgia', serif;
-	background-color: FAF0CA;
+	background-color: aquamarine;
 }
 h4 {
 	font-style: italic;
@@ -22,6 +27,11 @@ h4 {
 h3 {
 	font-size: 30px;
 }
+img {
+ 	float: right;
+ 	margin-right: 5%;
+ 	margin-left: 5%;
+ }
 
 
 /*Don't worry about this section yet*/
@@ -37,9 +47,4 @@ h3 {
  iframe {
  	min-width: 90%;
  	margin-right: 10px;
- }
- .img {
- 	float: right;
- 	margin-right: 5%;
- 	margin-left: 5%;
  }
