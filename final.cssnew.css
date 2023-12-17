@@ -48,3 +48,6 @@ img {
  	min-width: 90%;
  	margin-right: 10px;
  }
+ .footer p {
+ 	background-color: hotpink;
+ }
